@@ -1,0 +1,9 @@
+README.md
+setup.py
+pyshortener/__init__.py
+pyshortener/shorten.py
+pyshortener.egg-info/PKG-INFO
+pyshortener.egg-info/SOURCES.txt
+pyshortener.egg-info/dependency_links.txt
+pyshortener.egg-info/requires.txt
+pyshortener.egg-info/top_level.txt

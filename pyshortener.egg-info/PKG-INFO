@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pyshortener
+Version: 0.0.2
+Summary: URL Shortener from python
+Home-page: UNKNOWN
+Author: JustAnotherCoder
+Author-email: <alexthegreatmatei@gmail.com>
+License: UNKNOWN
+Keywords: python,requests,url shortener,url,website,shortener,short,request,api,flask
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+URL Shortener which shortens a url directly from your python code. An api for lnk.gdn which is also made by me! All made via requests.
+
